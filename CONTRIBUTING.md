@@ -73,7 +73,6 @@ created_by: jonrohan
 ---
 Drop the code bass with these musically themed repositories.
 ```
-
 ---
 
 The [pull request template](./.github/PULL_REQUEST_TEMPLATE.md) also provides guidance on the information you need to include.
